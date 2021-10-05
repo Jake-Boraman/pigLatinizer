@@ -73,7 +73,7 @@ namespace pigLatin
             string output = "";
             //TODO find a better way of checking all possible consonant clusters
             //Arrays hold most common consonant clusters
-            string[] consBlendsTwo = new string[] { "bl", "cl", "fl", "gl", "pl", "sl", "br", "cr", "dr", "fr", "gr", "pr", "tr", "sc", "sk", "sm", "sn", "sp", "st", "sw", "tw", "ch", "sh", "th", "wh" };
+            string[] consBlendsTwo = new string[] { "bl", "cl", "fl", "gl", "pl", "sl", "br", "cr", "dr", "fr", "gr", "pr", "tr", "sc", "sk", "sm", "sn", "sp", "st", "sw", "tw", "ch", "sh", "th", "wh", "wr", "ph", "gh"};
             string[] consBlendsThr = new string[] { "thr", "str", "spr", "spl", "shr", "scr" };
 
             bool isFirstVowel = "aeiouAEIOU".IndexOf(word[0]) >= 0;
