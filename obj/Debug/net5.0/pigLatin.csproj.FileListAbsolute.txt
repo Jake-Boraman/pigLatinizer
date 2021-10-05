@@ -1,0 +1,16 @@
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.exe
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.deps.json
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.runtimeconfig.json
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.runtimeconfig.dev.json
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.dll
+I:\C#\pigLatin\bin\Debug\net5.0\ref\pigLatin.dll
+I:\C#\pigLatin\bin\Debug\net5.0\pigLatin.pdb
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.csprojAssemblyReference.cache
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.AssemblyInfoInputs.cache
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.AssemblyInfo.cs
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.csproj.CoreCompileInputs.cache
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.dll
+I:\C#\pigLatin\obj\Debug\net5.0\ref\pigLatin.dll
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.pdb
+I:\C#\pigLatin\obj\Debug\net5.0\pigLatin.genruntimeconfig.cache
